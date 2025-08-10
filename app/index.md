@@ -16,7 +16,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 ### [Queen](writer/queen.md) | queen@onlyrics.magazine
 
-[We Are The Champions](song/jan/we_are_the_champions.md)
+[White Queen](../song/feb/white_queen.md)
 
 ### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
 
