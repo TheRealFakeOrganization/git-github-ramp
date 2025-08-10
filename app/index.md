@@ -10,9 +10,7 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [R U Mine](../song/feb/r_u_mine.md)
 
-### [Jhon Lennon](writer/john_lennon.md)
 
-[I'm losing you](../song/feb/Im_losing_you.md)
 
 ### [Queen](writer/queen.md)
 
